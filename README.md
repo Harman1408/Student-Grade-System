@@ -25,26 +25,28 @@ grade_system_new.py # Main Python program
    ```python
    avg = (mar1 + mar2 + mar3) / 3
 
-**Based on the average, a grade is displayed:**
+## 📊 Grade Calculation Rules
 
-90 and above → Grade A
+Based on the average, a grade is displayed:
 
-70–89 → Grade B
+- **90 and above** → Grade A  
+- **70–89** → Grade B  
+- **60–69** → Grade C  
+- **Below 60** → Grade D  
 
-60–69 → Grade C
+---
 
-Below 60 → Grade D
+## 🔮 Future Improvements
 
-**🔮 Future Improvements**
+- Accept marks for more subjects dynamically  
+- Store student records in a file (CSV/JSON)  
+- Add GUI using Tkinter or a web version using Flask/Django  
 
-- Accept marks for more subjects dynamically
+---
 
-- Store student records in a file (CSV/JSON)
+## 💻 Tech Stack
 
-- Add GUI using Tkinter or a web version using Flask/Django
+- **Language:** Python 🐍  
 
- 💻 **Tech Stack**
-
-Language: Python 🐍
 
 
